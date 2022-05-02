@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbda2b54-d69b-4854-92e3-1d5017292c1d": {
+      "ProjectGuid": "dbda2b54-d69b-4854-92e3-1d5017292c1d",
+      "DisplayName": "Chapter.WebApi",
+      "ColorIndex": 0
+    },
+    "fc5992d9-6e7a-4b01-8552-1051c7aeff35": {
+      "ProjectGuid": "fc5992d9-6e7a-4b01-8552-1051c7aeff35",
+      "DisplayName": "TestXUnit",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
